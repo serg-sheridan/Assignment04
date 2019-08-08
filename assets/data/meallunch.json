@@ -1,0 +1,18 @@
+{
+	"lunch": [{
+			"name": "Banana",
+			"price": "$0.80",
+			"calories": "80 kcal"
+		},
+		{
+			"name": "Chicken",
+			"price": "$5.00",
+			"calories": "250 kcal"
+		},
+		{
+			"name": "Cabbage",
+			"price": "$1.20",
+			"calories": "100 kcal"
+		}
+	]
+}

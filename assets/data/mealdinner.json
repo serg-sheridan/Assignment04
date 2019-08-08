@@ -1,0 +1,18 @@
+{
+	"dinner": [{
+			"name": "Cherry",
+			"price": "$1.80",
+			"calories": "120 kcal"
+		},
+		{
+			"name": "Beef",
+			"price": "$5.50",
+			"calories": "250 kcal"
+		},
+		{
+			"name": "Beets",
+			"price": "$1.00",
+			"calories": "100 kcal"
+		}
+	]
+}
